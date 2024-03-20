@@ -1,5 +1,3 @@
-### eJobs
-## Revision History
 
 |   Date    |       Description         |       Author         |  Comments  |
 |-----------|---------------------------|----------------------|------------|
