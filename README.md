@@ -191,7 +191,7 @@ Revision History
 
    3.1 Test plan  
 
-   -link to test plan: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20project.docx
+   -link to test plan: https: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20Project.pdf
 
                   
 
@@ -207,13 +207,17 @@ Revision History
 
 3.3 Test Cases 
 
+
 Test case 1 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf
+
+
 Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf
 
 
  
 
 3.4 Daily/Weekly/Monthly test summary report 
+
 
    - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.) 
 
@@ -225,6 +229,8 @@ Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/
 
 3.5 Traceability matrix 
 
+
+
 Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Traceability%20Matrix.pdf
 
     
@@ -234,6 +240,8 @@ Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/bl
 3.6 Test case results 
 
    Test Case 1 link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf
+
+   
    Test Case 2 link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf
 
 
@@ -246,6 +254,7 @@ Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/bl
  
 
 3.8 Test completion report  
+
 
    Test completion report link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Execution%20by%20Cycle.jpg
 
