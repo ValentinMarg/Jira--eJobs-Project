@@ -197,10 +197,13 @@ Revision History
 
    3.2 Test conditions  
 
-    - will be created based on the business requirements validated in the test analysis phase and will represent the futures to be tested and transformed into test cases. 
+    - will be created based on the business requirements validated in the test analysis phase and will represent the futures to be tested and transformed into test cases.
+    - 
 
     Epic Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Epic.pdf
+
     Story Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Story.pdf
+   
     Task Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Task.pdf
 
  
