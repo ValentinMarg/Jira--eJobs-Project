@@ -11,7 +11,7 @@ Revision History
 
  
 
-     eJobs is the largest online recruitment platform in Romania, with a database of over 4 million CVs. It was created from the desire to modernize classic recruitment methods and facilitate the employee-employer relationship. 
+   eJobs is the largest online recruitment platform in Romania, with a database of over 4 million CVs. It was created from the desire to modernize classic recruitment methods and facilitate the employee-employer relationship. 
 
     As the app is still under development, this version will have limited features. Over a period, new ones will appear. 
 
@@ -24,6 +24,7 @@ Revision History
    The main objective for us is to raise the trust in the quality of the project as high as possible, finding the problems but also preventing them. All of this must be met before releasing it to the customer. 
 
 • Application web site: https://www.ejobs.ro/  
+
 
  
 
