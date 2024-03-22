@@ -37,3 +37,27 @@ Revision History
    We will also perform a static test using the static analysis on the documentation to ensure that there are no contradictions, and that the user guide is clearly defined. 
 
    The eJobs application also, will be tested on the latest versions of: Chrome, IE and Microsoft Edge browsers, Opera and Mozilla.  
+
+
+
+   1.3 Functionalities and tests out of scope  
+
+ 
+
+   - Automation testing is beyond the scope of this project. 
+
+   - Non-functional testing like stress, load, maintainability, spike, reliability and performance is beyond scope. 
+
+   - Recovering testing and compliance testing is beyond scope. 
+
+   - The mobile application will not be tested.
+     
+   - Automation testing is beyond the scope of this project. 
+
+   - Non-functional testing like stress, load, maintainability, spike, reliability and performance is beyond scope. 
+
+   - Recovering testing and compliance testing is beyond scope. 
+
+   - The mobile application will not be tested. 
+
+   
