@@ -199,15 +199,17 @@ Revision History
 
     - will be created based on the business requirements validated in the test analysis phase and will represent the futures to be tested and transformed into test cases. 
 
-    - test conditions will be exported from Jira and added here 
+    Epic Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Epic.pdf
+    Story Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Story.pdf
+    Task Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Task.pdf
 
  
 
 3.3 Test Cases 
 
-   - link to test cases 
+Test case 1 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf
+Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf
 
-   - test cases will be exported from Jira and added here 
 
  
 
@@ -215,41 +217,38 @@ Revision History
 
    - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.) 
 
-   - reports will be exported from Jira and added here  
-
+     https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Daily%20Test%20Execution%20Progress.png
+     https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Execution%20by%20Date.png
+     https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Executions%20by%20Test%20Cycle%20%26%20Test%20Execution%20by%20Tester.png
+   
   
 
 3.5 Traceability matrix 
 
-   - link to traceability matrix 
+Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Traceability%20Matrix.pdf
 
-   - traceability matrix will be exported from Jira and added here  
+    
 
   
 
- 
-
 3.6 Test case results 
 
-   - link to taste case results 
+   Test Case 1 link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf
+   Test Case 2 link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf
 
-   - test cases will be exported from Jira and added here 
 
  
 
 3.7 Bugs report 
 
-   - link to bugs report 
-
-   - bug reports will be exported from Jira and added here 
+   Bugs Report link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Bugs.pdf
 
  
 
 3.8 Test completion report  
 
-   - link to test completion report 
+   Test completion report link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Execution%20by%20Cycle.jpg
 
-   - test completion will be exported from Jira and added here 
 
  
 
