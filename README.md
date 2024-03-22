@@ -198,7 +198,7 @@ Revision History
    3.2 Test conditions  
 
     - will be created based on the business requirements validated in the test analysis phase and will represent the futures to be tested and transformed into test cases.
-    - 
+ 
 
     Epic Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Epic.pdf
 
@@ -252,6 +252,7 @@ Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/bl
 
 3.7 Bugs report 
 
+
    Bugs Report link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Bugs.pdf
 
  
@@ -265,6 +266,7 @@ Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/bl
  
 
 3.9 Schedule 
+
 
    - we have 10 days of testing 
 
