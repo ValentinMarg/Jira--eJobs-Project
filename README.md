@@ -58,6 +58,25 @@ Revision History
 
    - Recovering testing and compliance testing is beyond scope. 
 
-   - The mobile application will not be tested. 
+   - The mobile application will not be tested.
+
+
+
+
+
+2. Test process 
+
+2.1 Test planning  
+
+    • Roles and responsibilities: 
+----------------------------
+|Marginean Valentin- QA Junior       |Will test: functional testing, localization testing, acceptance testing, usability testing |
+|------------------------------------|-------------------------------------------------------------------------------------------|
+|QA Senior                           |  Will test:                                                                               |
+
+
+
+
+
 
    
