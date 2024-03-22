@@ -58,7 +58,6 @@ Revision History
 
    - Recovering testing and compliance testing is beyond scope. 
 
-   - The mobile application will not be tested.
 
 
 
@@ -70,9 +69,9 @@ Revision History
 
    • Roles and responsibilities: 
 
-|Marginean Valentin- QA Junior       |Will test: functional testing, localization testing, acceptance testing, usability testing |
-|------------------------------------|-------------------------------------------------------------------------------------------|
-|QA Senior                           |  Will test:                                                                               |
+|Marginean Valentin- QA Junior       |Will test: functional testing, compatibility testing, Gui testing |
+|------------------------------------|------------------------------------------------------------------|
+|QA Senior                           |  Will test:                                                      |
 
 
 
@@ -106,9 +105,7 @@ Revision History
 
 •Risks: 
 
-   - IE browser might have performance issues 
-
-   - low personal risks 
+   - IE browser might have performance issues  
 
    - new browser might not be supported 
 
@@ -124,9 +121,9 @@ Revision History
 
    - we received and understood the business requirements, and we have all the details for creating the test conditions 
 
-   - we will test: candidate and company login and logout (email + password), creating a CV and if all links are working properly 
+   - we will test: candidate log in, interface display, compatibility of the application, creating a CV . 
 
-   -  we plan on running a full regression test on the current version 
+   - we plan on running a full regression test on the current version 
 
    - we suggest a compliance regulation testing and a full regression test on the current version
 
@@ -173,7 +170,6 @@ Revision History
 
    - Exit criteria are all succeed 
 
-   - Testing reports are generated and send to the customer 
 
  
 
@@ -195,7 +191,7 @@ Revision History
 
    3.1 Test plan  
 
-   -link to test plan 
+   -link to test plan: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20project.docx
 
                   
 
