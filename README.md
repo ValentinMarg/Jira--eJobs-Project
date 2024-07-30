@@ -246,7 +246,12 @@ Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/
 
 
 
-![image](https://github.com/user-attachments/assets/f64e8eaf-4dec-4524-b0d3-ea51f79fb919)
+![image](https://github.com/user-attachments/assets/f64e8eaf-4dec-4524-b0d3-ea51f79fb919)     ![image](https://github.com/user-attachments/assets/a97a8fc9-3e79-4d15-a762-7ee7f5fc8989)  
+
+![image](https://github.com/user-attachments/assets/f42c512a-e248-4115-bff4-6fc02452e177)     ![image](https://github.com/user-attachments/assets/1d163a11-5c63-4317-b87d-fac4533c8b1e)
+
+
+
 
 
     
