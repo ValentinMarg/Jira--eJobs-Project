@@ -283,7 +283,7 @@ Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/
 
 3.8 Test completion report  
 
-    ![image](https://github.com/user-attachments/assets/6e86149c-3088-48fc-9643-f391117da4a8)
+   ![image](https://github.com/user-attachments/assets/6e86149c-3088-48fc-9643-f391117da4a8)
 
 
 
