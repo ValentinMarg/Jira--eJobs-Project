@@ -136,6 +136,10 @@ Revision History
 
 2.4 Test implementation 
 
+   -esting environment is up and running
+
+   -smoke test passed
+
    - all the test data is available and reviewed (user as candidate role/company role, mail, password, the data for creating a CV by the user as a candidate) 
 
    - this test run includes only regression testing in which we will run tests that have the highest priority 
