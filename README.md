@@ -231,7 +231,9 @@ Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/
 3.4 Daily/Weekly/Monthly test summary report 
 
 
-   - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.) 
+   - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.)
+     
+     ![image](https://github.com/user-attachments/assets/b38ee83f-65a0-41a0-bd2a-0f1e2ce3be0f)
 
      https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Daily%20Test%20Execution%20Progress.png
      https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Execution%20by%20Date.png
