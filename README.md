@@ -235,9 +235,10 @@ Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/
      
      ![image](https://github.com/user-attachments/assets/b38ee83f-65a0-41a0-bd2a-0f1e2ce3be0f)
 
-     https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Daily%20Test%20Execution%20Progress.png
-     https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Execution%20by%20Date.png
-     https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Executions%20by%20Test%20Cycle%20%26%20Test%20Execution%20by%20Tester.png
+     ![image](https://github.com/user-attachments/assets/dc09d4f0-1a28-45bf-b1df-6cc0761ea807)
+
+     ![image](https://github.com/user-attachments/assets/7a9f9f8a-50df-414d-950d-bd74439c3dff)
+
    
   
 
@@ -245,7 +246,8 @@ Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/
 
 
 
-Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Traceability%20Matrix.pdf
+![image](https://github.com/user-attachments/assets/f64e8eaf-4dec-4524-b0d3-ea51f79fb919)
+
 
     
 
@@ -253,25 +255,31 @@ Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/bl
 
 3.6 Test case results 
 
-   Test Case 1 link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf
+   Test Case 1: 
+   
+   ![image](https://github.com/user-attachments/assets/dee9e28f-ab97-4a24-bb65-462a20d14081)
+
 
    
-   Test Case 2 link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf
+   Test Case 2: 
+   
+   ![image](https://github.com/user-attachments/assets/5775b008-34a1-4cf3-8126-948095a438ea)
+
 
 
  
 
 3.7 Bugs report 
+ 
+   ![image](https://github.com/user-attachments/assets/a20b2bfd-094a-4ee1-8610-b27d60f5abe0)
 
-
-   Bugs Report link:  https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Bugs.pdf
 
  
 
 3.8 Test completion report  
 
+    ![image](https://github.com/user-attachments/assets/6e86149c-3088-48fc-9643-f391117da4a8)
 
-   Test completion report link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Execution%20by%20Cycle.jpg
 
 
  
@@ -281,7 +289,7 @@ Traceability matrix link: https://github.com/ValentinMarg/Jira--eJobs-Project/bl
 
    - we have 10 days of testing 
 
-   - we have 30 test cases 
+   - we have 15 test cases 
 
    - in order to finish the test run we would need to run an ~ of 3 tests/day 
 
