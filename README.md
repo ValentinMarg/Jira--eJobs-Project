@@ -100,7 +100,15 @@ Revision History
 
 
 
-•Risks: 
+• Project Risks: 
+
+   - personal deficit
+     
+   - unclear documentation
+     
+   - unfinished test environment
+
+• Product Risks: 
 
    - IE browser might have performance issues  
 
