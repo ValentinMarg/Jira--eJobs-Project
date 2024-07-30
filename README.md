@@ -79,9 +79,6 @@ Revision History
 
 • Entry criteria: 
 
-   - Testing environment is up and running 
-
-   - Smoke test passed 
 
    - Functional business specifications are defined 
 
