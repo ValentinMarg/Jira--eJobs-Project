@@ -23,7 +23,7 @@ Revision History
 
    The main objective for us is to raise the trust in the quality of the project as high as possible, finding the problems but also preventing them. All of this must be met before releasing it to the customer. 
 
-• Application web site: https://www.ejobs.ro/  
+• Application web site: [Click here!](https://www.ejobs.ro/)  
 
 
  
@@ -200,7 +200,7 @@ Revision History
 
    3.1 Test plan  
 
-   -link to test plan: [Link](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20Project.pdf)
+   -link to test plan: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20Project.pdf)
 
                   
 
@@ -209,21 +209,21 @@ Revision History
     - will be created based on the business requirements validated in the test analysis phase and will represent the futures to be tested and transformed into test cases.
  
 
-    Epic Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Epic.pdf
+    Epic Link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Epic.pdf)
 
-    Story Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Story.pdf
+    Story Link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Story.pdf)
    
-    Task Link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Task.pdf
+    Task Link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Task.pdf)
 
  
 
 3.3 Test Cases 
 
 
-Test case 1 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf
+Test case 1 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(Steps%2BExecutions%2Bresults).pdf)
 
 
-Test case 2 link: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf
+Test case 2 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf)
 
 
  
