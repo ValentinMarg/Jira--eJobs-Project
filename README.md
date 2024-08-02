@@ -223,7 +223,7 @@ Revision History
 Test case 1 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(steps%2Bexecutions%2Bresults).pdf)
 
 
-Test case 2 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(Steps%2BExexutions%2BResults).pdf)
+Test case 2 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(steps%2Bexecutions%2Bresults).pdf)
 
 
  
