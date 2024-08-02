@@ -200,7 +200,7 @@ Revision History
 
    3.1 Test plan  
 
-   -link to test plan: [Link]( https: https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20Project.pdf)
+   -link to test plan: [Link](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/eJobs%20Project.pdf)
 
                   
 
