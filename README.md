@@ -380,6 +380,22 @@ Bug-uri: 4
 
 Total bugs: 7
 
+Bugs corelated to tests:
+
+MR-41 = MR-36
+
+MR-40 = MR-39
+
+MR-35 = MR-33
+
+MR-31 = MR-27
+
+MR-30 = M3-29
+
+MR-24 = MR-20
+
+MR-23 = MR-22
+
 
  
 
