@@ -279,7 +279,7 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
 
    Test Case 1: 
    
-   ![image](https://github.com/user-attachments/assets/dee9e28f-ab97-4a24-bb65-462a20d14081)
+   ![image](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(steps%2Bexecutions%2Bresults).pdf)
 
 
    
