@@ -256,7 +256,15 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
      
      ![image](https://github.com/user-attachments/assets/b38ee83f-65a0-41a0-bd2a-0f1e2ce3be0f)
 
+     Test Passed: 7
+     
+     Test Failed: 7
+     
+     Test Blocked: 0
+
      ![image](https://github.com/user-attachments/assets/dc09d4f0-1a28-45bf-b1df-6cc0761ea807)
+
+     Total Tests: 14
 
      ![image](https://github.com/user-attachments/assets/7a9f9f8a-50df-414d-950d-bd74439c3dff)
 
@@ -384,11 +392,11 @@ Bug-uri: 4
 
    ![image](https://github.com/user-attachments/assets/6e86149c-3088-48fc-9643-f391117da4a8)
 
-   Tests Passed: 10
+   Total Tests Passed: 8
    
-   Tests Failed: 4
+   Total Tests Failed: 7
    
-   Test Blocked: 0
+   Total Test Blocked: 0
 
  
 
