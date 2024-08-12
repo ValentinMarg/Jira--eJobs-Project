@@ -260,12 +260,35 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
 
      ![image](https://github.com/user-attachments/assets/7a9f9f8a-50df-414d-950d-bd74439c3dff)
 
+     Functional Tetsing: 9 tests
+     Gui Testing: 4 tests
+     Compatibility testing: 1 test
    
   
 
 3.5 Traceability matrix 
 
    ![image](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Traceability%20Matrix.png)
+
+Numarul de story-uri: 4​
+
+Teste totale corelate la story-uri: 10​
+
+Story MR-21= 1 test
+           = 1 bug corelat la testul MR-22
+     
+MR-16= 2 teste
+     = 1 bug  corelat la testul MR-33
+     
+MR-14= 2 teste
+     = 0 bug-uri
+     
+MR-13= 5 teste
+     = 2 bug-uri corelate la testele MR-20 si MR-29
+
+Teste passed: 6​
+
+Bug-uri: 4
 
 
 
@@ -359,7 +382,9 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
 
    ![image](https://github.com/user-attachments/assets/6e86149c-3088-48fc-9643-f391117da4a8)
 
-
+   Tests Passed: 10
+   Tests Failed: 4
+   Test Blocked: 0
 
  
 
@@ -368,7 +393,7 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
 
    - we have 10 days of testing 
 
-   - we have 15 test cases 
+   - we have 14 test cases 
 
    - in order to finish the test run we would need to run an ~ of 3 tests/day 
 
