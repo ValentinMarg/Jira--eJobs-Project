@@ -300,6 +300,8 @@ Teste passed: 6​
 
 Bug-uri: 4
 
+Blocked: 0
+
 
 
 
@@ -379,6 +381,8 @@ Bug-uri: 4
    ![image](https://github.com/user-attachments/assets/6cd6e0e9-90d3-4313-a516-d763bbec3598)
 
 Total bugs: 7
+Total tests passed: 7
+Total tests blocked: 0
 
 Bugs corelated to tests:
 
