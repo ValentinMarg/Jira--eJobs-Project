@@ -261,7 +261,9 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
      ![image](https://github.com/user-attachments/assets/7a9f9f8a-50df-414d-950d-bd74439c3dff)
 
      Functional Tetsing: 9 tests
+     
      Gui Testing: 4 tests
+     
      Compatibility testing: 1 test
    
   
