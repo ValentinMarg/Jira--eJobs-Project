@@ -318,18 +318,22 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
    
 
    Test Case 9: 
+   
    ![image](https://github.com/user-attachments/assets/d6fb4d81-e284-413b-a264-6b9b290a45d1)
 
 
    Test Case 10: 
+   
    ![image](https://github.com/user-attachments/assets/fc542e5c-605d-4600-b26e-b8effef92585)
 
 
    Test Case 11: 
+   
    ![image](https://github.com/user-attachments/assets/e2fff0dc-3113-42f0-978a-bd6473429044)
    
 
    Test Case 12: 
+   
    ![image](https://github.com/user-attachments/assets/33e107e5-4cc4-4dbb-8819-71f939244697)
 
 
