@@ -280,18 +280,18 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
    Test Case 1: 
    
    ![image](https://github.com/user-attachments/assets/01c8fc4a-24bd-48d4-848d-91cd393b84b9)
-
    
+
    Test Case 2: 
    
    ![image](https://github.com/user-attachments/assets/24d83de6-1c43-4d3b-9c00-3a97f39eeb37)
-
+   
 
    Test Case 3: 
    
    ![image](https://github.com/user-attachments/assets/64b1cf27-dbd5-41a7-be65-c19c4e9486d2)
-
    
+
    Test Case 4: 
    
    (![image](https://github.com/user-attachments/assets/8b670cc6-dfe7-4637-a3a5-196cc163b741)
@@ -308,7 +308,8 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
 
 
    Test Case 7: 
-    ![image](https://github.com/user-attachments/assets/348d50a7-8895-4964-ab14-884c1fc99dd7)
+   
+   ![image](https://github.com/user-attachments/assets/348d50a7-8895-4964-ab14-884c1fc99dd7)
 
 
    Test Case 8: 
