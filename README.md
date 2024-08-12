@@ -372,18 +372,13 @@ Bug-uri: 4
 
 
 
-
-
-
-   
-
-
-
  
 
 3.7 Bugs report 
  
-   ![image](https://github.com/user-attachments/assets/a20b2bfd-094a-4ee1-8610-b27d60f5abe0)
+   ![image](https://github.com/user-attachments/assets/6cd6e0e9-90d3-4313-a516-d763bbec3598)
+
+Total bugs: 7
 
 
  
