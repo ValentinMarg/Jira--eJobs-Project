@@ -279,13 +279,64 @@ Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Pro
 
    Test Case 1: 
    
-   ![image](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(steps%2Bexecutions%2Bresults).pdf)
-
+   ![image](https://github.com/user-attachments/assets/01c8fc4a-24bd-48d4-848d-91cd393b84b9)
 
    
    Test Case 2: 
    
-   ![image](https://github.com/user-attachments/assets/5775b008-34a1-4cf3-8126-948095a438ea)
+   ![image](https://github.com/user-attachments/assets/24d83de6-1c43-4d3b-9c00-3a97f39eeb37)
+
+
+   Test Case 3: 
+   
+   ![image](https://github.com/user-attachments/assets/64b1cf27-dbd5-41a7-be65-c19c4e9486d2)
+
+   
+   Test Case 4: 
+   
+   (![image](https://github.com/user-attachments/assets/8b670cc6-dfe7-4637-a3a5-196cc163b741)
+   
+
+   Test Case 5: 
+   
+   ![image](https://github.com/user-attachments/assets/a6ca86b7-07ab-449c-8b14-5a05773a2abb)
+
+
+   Test Case 6: 
+   
+   ![image](https://github.com/user-attachments/assets/02318c14-f6ab-440f-b24c-5f7571d03f15)
+
+
+   Test Case 7: 
+    ![image](https://github.com/user-attachments/assets/348d50a7-8895-4964-ab14-884c1fc99dd7)
+
+
+   Test Case 8: 
+   
+   ![image](https://github.com/user-attachments/assets/bb70b164-0bfe-4b5d-b92b-fb2548179f1f)
+   
+
+   Test Case 9: 
+   ![image](https://github.com/user-attachments/assets/d6fb4d81-e284-413b-a264-6b9b290a45d1)
+
+
+   Test Case 10: 
+   ![image](https://github.com/user-attachments/assets/fc542e5c-605d-4600-b26e-b8effef92585)
+
+
+   Test Case 11: 
+   ![image](https://github.com/user-attachments/assets/e2fff0dc-3113-42f0-978a-bd6473429044)
+   
+
+   Test Case 12: 
+   ![image](https://github.com/user-attachments/assets/33e107e5-4cc4-4dbb-8819-71f939244697)
+
+
+
+
+
+
+
    
 
 
