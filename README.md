@@ -357,7 +357,7 @@ Blocked: 0
 
 3.7 Bugs report 
  
-   ![image](https://github.com/ValentinMarg/Jira--eJobs-Project/tree/main/Bugs)
+   ![image](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Bugs%20Reports.png)
 
 Total bugs: 7
 Total tests passed: 7
