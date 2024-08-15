@@ -220,7 +220,7 @@ Revision History
 3.3 Test Cases 
 
 
-Test cases link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(steps%2Bexecutions%2Bresults).pdf)
+Test cases link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/tree/main/Test%20Cases)
 
 
    
@@ -357,7 +357,7 @@ Blocked: 0
 
 3.7 Bugs report 
  
-   ![image](https://github.com/user-attachments/assets/6cd6e0e9-90d3-4313-a516-d763bbec3598)
+   ![image](https://github.com/ValentinMarg/Jira--eJobs-Project/tree/main/Bugs)
 
 Total bugs: 7
 Total tests passed: 7
