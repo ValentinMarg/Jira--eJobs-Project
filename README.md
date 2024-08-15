@@ -220,30 +220,9 @@ Revision History
 3.3 Test Cases 
 
 
-Test case 1 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(steps%2Bexecutions%2Bresults).pdf)
+Test cases link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%201(steps%2Bexecutions%2Bresults).pdf)
 
-Test case 2 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%202(steps%2Bexecutions%2Bresults).pdf)
 
-Test Case 3 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%203(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 4 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%204(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 5 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%205(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 6 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%206(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 7 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%207(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 8 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%208(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 9 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%209(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 10 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%2010(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 11 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%2011(steps%2Bexecutions%2Bresults).pdf)
-
-Test Case 12 link: [Click here!](https://github.com/ValentinMarg/Jira--eJobs-Project/blob/main/Test%20Case%2012(steps%2Bexecutions%2Bresults).pdf)
-    
    
 
 
